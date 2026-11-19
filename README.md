@@ -11,3 +11,4 @@ Edit the `CONFIG` object in index.html with your names, shared memories, relatio
 
 ## Hosting
 Enable GitHub Pages in Settings → Pages → Deploy from a branch → main / root. The game needs an internet connection to load its pinned Three.js module and a WebGL-capable browser. No server or build step is required.
+
